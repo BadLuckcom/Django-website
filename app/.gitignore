@@ -1,0 +1,11 @@
+#python stuff
+.venv/
+.pylinetrc
+__pycache__/
+
+#idea stuff
+.idea
+
+#django staff
+db.sqlite3
+media/
